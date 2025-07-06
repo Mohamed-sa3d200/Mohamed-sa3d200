@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
-<h3 align="center">Student at Faculty of Computers | Passionate about Problem Solving</h3>
+<h3 align="center">Passionate about Programing and Problem Solving</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-sa3d200&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-sa3d200" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a student at the Faculty of Computers.  
+🎓 I'm a student at the Faculty of Computers and Artificial Intelligence,Cairo University.  
 💡 I enjoy solving problems and have a good understanding of programming fundamentals and databases.  
 🚀 I'm constantly learning and exploring new technologies related to security and backend development.
 
