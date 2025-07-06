@@ -48,7 +48,6 @@
 <!-- Concepts -->
 <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00758F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC%20Architecture-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Design%20Principles-7952B3?style=for-the-badge"/>
 
 <!-- Operating Systems -->
@@ -59,13 +58,10 @@
 <!-- Networking -->
 <img src="https://img.shields.io/badge/TCP/IP-005B9A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OSI%20Model-1F4E5F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subnetting-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Protocols-607D8B?style=for-the-badge"/>
+
 
 <!-- Cybersecurity -->
 <img src="https://img.shields.io/badge/Security%20Fundamentals-8BC34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Hardening-B71C1C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk%20Awareness-F9A825?style=for-the-badge"/>
 
 </p>
 
