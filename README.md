@@ -11,8 +11,6 @@
 🐍 Using Python for data transformation and automation  
 🚀 Currently expanding my skills in Spark, Airflow, and Cloud technologies  
 
-I am building production-ready data engineering skills by mastering database systems, ETL design, and distributed processing fundamentals.
-
 ---
 
 ## 🧠 Data Engineering Skills
