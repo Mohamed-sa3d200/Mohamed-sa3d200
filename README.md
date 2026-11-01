@@ -207,8 +207,6 @@ Extracts fields from 500+ scanned documents with **OCR** (about 90% field accura
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed-sa3d200&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-sa3d200&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=Mohamed-sa3d200&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
 </div>
